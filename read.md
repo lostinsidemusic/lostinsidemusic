@@ -76,14 +76,14 @@ me = Developer()
   <tr>
     <td width="50%">
       <h3>Project 01</h3>
-      <b>[프로젝트 이름]</b>
+      <b>[N/A]</b>
       <p>[프로젝트의 목적과 주요 기능을 간단히 소개합니다.]</p>
       <p><b>Tech:</b> [사용 기술]</p>
       <a href="프로젝트_URL">View Project</a>
     </td>
     <td width="50%">
       <h3>Project 02</h3>
-      <b>[프로젝트 이름]</b>
+      <b>[N/A]</b>
       <p>[프로젝트에서 해결하려는 문제나 구현한 기능을 소개합니다.]</p>
       <p><b>Tech:</b> [사용 기술]</p>
       <a href="프로젝트_URL">View Project</a>
